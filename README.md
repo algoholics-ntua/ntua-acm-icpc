@@ -10,5 +10,6 @@ This repository contains past problems and solutions from NTUA's internal ACM IC
   * Date: 16/05/2018
   * Duration: 3h
   * [Contest site](https://www.hackerrank.com/contests/ntua-acmicpc-qualification/challenges)
-  * [Problem 1](2018/problem1/problem1.pdf), Solution
-  * [Problem 2](2018/problem2/problem2.pdf), Solution
+  * [Problem 1](2018/problem1/problem1.pdf)
+  * [Problem 2](2018/problem2/problem2.pdf)
+  * [Editorial](2018/2018-editorial.pdf)
